@@ -16,7 +16,8 @@ The goal of this excercise is to practice some of the concepts learned in class,
 	* VR simulator
 	* SteamVR 
 8. Design an **outdoor enviroment** that includes 2 different spaces that can be visited by the user
-Consideration for your environment design are (implement at least 4):
+
+* Considerations for your environment are (implement at least 4):
 	1. Skybox:
 		- Change the color of the current skybox to something of your choice
 		- Add a new procedural skybox
@@ -25,17 +26,17 @@ Consideration for your environment design are (implement at least 4):
 		- 3 point lights
 	3. If you are using a terrain, populate it with trees or other elements like rocks or grass.
 	4. If you are using a plane as floor, add elements to the space, for example simple objects with textures or specific materials to outline the mood of the envrionment.
-	5. Add 5 sounds so the experience is richer, and the get louder when the user gets closer to them 
-9. Add navigation either by teleporting 
-10. Make at least one obbject grabbale (VRTK_Interactable Object)
-11. Use at least 2 of the scripts provided in: *Assets/Practicum/Scripts*
-12. Save the scene
+	5. Add 5 sounds so the experience is richer, some sounds should get louder when the user gets closer to them.
+9. Add navigation with simple or dash teleporting.
+10. Make at least one object interactable (VRTK_Interactable Object)
+11. Use at least 2 of scripts in a meaningful way. They are provided in: *Assets/Practicum/Scripts*
+12. Save your scene
 13. Commit changes to repository, remember to add a useful commit messages. 
 14. Push committed changes to github
 15. Take 2 screenshots of your environment, and put them inside of the folder:  *Assets/Practicum/Screenshots*
 13. Commit changes to repository, add a commit message: "Screenshots added to the repository". 
 14. Push committed changes to github
-15. You can leave when done.
+15. You are done!
 
 ---
-**NOTE:** Feel free to use and modify any of the scripts provided, add new scripts, and assets to the enviornment.
+**NOTE:** Feel free to use and modify any of the scripts provided, most chances, are that you will add new assets to the enviornment, try to keep your project organized.
